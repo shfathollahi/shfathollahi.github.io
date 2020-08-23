@@ -81,7 +81,7 @@ ul li i {
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  behavior: url(/GhResume/vendors/PIE.htc);
+  /*behavior: url(/GhResume/vendors/PIE.htc);*/
   border: 1px solid transparent;
   padding: 30px;
   margin: 2% auto;
@@ -151,7 +151,7 @@ hr {
   text-align: center;
   line-height: 64px;
   font-size: 147%;
-  background-color: #aa99ff;
+  background-color: #0099ff;
   color: #ffffff;
 }
 .container#skills h2 {
