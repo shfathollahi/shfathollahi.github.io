@@ -81,7 +81,7 @@ ul li i {
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  /*behavior: url(/GhResume/vendors/PIE.htc);*/
+  behavior: url(/GhResume/vendors/PIE.htc);
   border: 1px solid transparent;
   padding: 30px;
   margin: 2% auto;
